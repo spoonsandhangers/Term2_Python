@@ -6,7 +6,7 @@ play = ""
 scoreUser = 0
 scoreComp = 0
 
-# while the varaible play does not equal the string "exit"
+# while the variable play does not equal the string "exit"
 # Everything in the loop will run
 # This will be tested each time the loop starts again.
 while play != "exit":
