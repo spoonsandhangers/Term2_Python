@@ -1,5 +1,6 @@
 """
 Fizz buzz with more features
+
 """
 #Global variables
 maxNum = 100
