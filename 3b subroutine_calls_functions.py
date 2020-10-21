@@ -4,7 +4,8 @@ show how to use global and local variables.
 Updating global variables in this way will lead into using OOP instance variables and methods.
 Subroutines that return a value are called functions
 They use the key word return
-To use the return value you must assign it to a variable.
+Follow the key word return with the value/variable you want to return.
+Make sure that when you call the subroutine you assign the return value to a variable. See lines 31, 37 and 42.
 """
 
 # Global variables
